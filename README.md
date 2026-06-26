@@ -67,3 +67,4 @@ Then do `git clone` of *your* repository to get a local copy.
 # Copyright
 
 © Ken Youens-Clark 2019-2024
+This project demonstrates collaborative GitHub workflow using pull requests.
